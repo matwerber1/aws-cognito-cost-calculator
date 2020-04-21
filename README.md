@@ -1,6 +1,6 @@
 # aws-cognito-cost-calculator
 
-A Microsoft Excel spreadsheet showing an unofficial example calculation of the 12-month cost involved for migrating to Cognito
+A Microsoft Excel spreadsheet showing an unofficial example calculation of the 12-month cost involved for migrating user authentication to [Amazon Cognito](https://aws.amazon.com/cognito/)
 
 # Disclaimer
 
